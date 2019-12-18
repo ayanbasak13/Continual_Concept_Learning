@@ -1,0 +1,8 @@
+--gan_type VAE
+--dataset mnist 
+--epoch 5
+--batch_size 32 
+--z_dim 25
+--checkpoint_dir "//Users/ayanbask/PycharmProjects/VAE/checkpoints/" 
+--result_dir "/Users/ayanbask/PycharmProjects/VAE/results/""
+--log_dir "/Users/ayanbask/PycharmProjects/VAE/logs/"
